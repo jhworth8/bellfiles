@@ -1,0 +1,42 @@
+/*
+Create an android flutter app called Pocket Cowbell. Below are the instructions.
+1.  The app starts with a splash screen that displays a text "Welcome to Pocket Cowbell!" and "Hold TIGHT and ring with all your MIGHT!"
+2.  The user has to tap a button "BEGIN" to start the app.
+3.  As soon as the user taps "BEGIN", the app loads a background image of a cowbell.
+4.  The user is able to move the cowbell in any direction by moving the phone in any direction.
+5.  The cowbell has a clang sound when the user moves it to and fro.
+6.  There is a menu option on the left corner of the cowbell which displays options "COWBELLS", "SOUNDS", and "MODES" when tapped on.
+7.  When the user taps on "COWBELLS", a list of options are displayed - Maroon, Gold, Pink, and Toon.
+8.  When the user taps on any of these options, the cowbell changes to that color.
+9.  When the user taps on "SOUNDS", a list of options are displayed - Clang, Clong, Cling, Clung, and GOAT.
+10. When the user taps on any of these options, the cowbell sound changes to that sound.
+11. When the user taps on "MODES", a list of options are displayed - Light Mode and Dark Mode.
+12. The customizable options are locked behind a Google Pay paywall, and when the user clicks on the "unlock more features" button, the menu options and features are permenately unlocked.
+These are the asset files:
+clang.mp3
+clong.mp3
+cling.mp3
+clung.mp3
+goat.mp3
+silence.mp3
+bootup.mp3
+touch1.wav
+touch2.wav
+touch3.wav
+touch4.wav
+logo.png
+cowbell.png
+goldcowbell.png
+pinkcowbell.png
+Font2.ttf
+toonbell1.png
+toonbell2.png
+toonbell3.png
+toonbell4.png
+toonbell5.png
+toonbell6.png
+toonbell7.png
+toonbell8.png
+toonbell9.png
+toonbell10.png
+*/
